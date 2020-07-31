@@ -1,2 +1,2 @@
-# liqiqi.github.io
-liqiqi的个人博客
+# Li-qiqi.github.io
+柒麒的个人博客
